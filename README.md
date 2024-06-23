@@ -10,7 +10,7 @@ Please install the required packages via:
 ### Instructions
 
 This code uses the MNIST dataset on .csv file, and './FL_implementation/data_split.py' code is used to split the MNIST dataset in i.i.d distribution adjusting the number of clients, or in two separate datasets: having only odd and even number labels. 
-- MNIST training dataset is missing because of big data file. You can download csv MNIST file from https://www.kaggle.com/datasets/oddrationale/mnist-in-csv?resource=download and save as './FL_implementation/Distributed_FL/dataset/mnist/mnist_train.csv'
+- MNIST training dataset is missing because of big data file. You can download csv MNIST file from https://www.kaggle.com/datasets/oddrationale/mnist-in-csv?resource=download and save as './FL_implementation/Distributed_FL/dataset/mnist/mnist_train.csv' at '/Distributed_FL' and '/P2P_FL'.
 
 There are two types of Federated Learning scenarios in this code:
  
