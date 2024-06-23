@@ -1,4 +1,4 @@
-# FL_Socket: Federated Learning Implementation using Socket Communication
+# FL_Socket: Federated Learning Implementation in Python using Socket Communication 
 
 ### Requirements
 
